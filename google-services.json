@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707060579287",
+    "project_id": "slnee-mobile",
+    "storage_bucket": "slnee-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707060579287:android:10efd30c7487393a7ee992",
+        "android_client_info": {
+          "package_name": "com.qwertyrioup.SlneeMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707060579287-3kph9u3g2gif3nn0v33021fvaqi7qaim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtn6s_RmQAuf-JA8j8Lc0OVTvB2vgkQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707060579287-3kph9u3g2gif3nn0v33021fvaqi7qaim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

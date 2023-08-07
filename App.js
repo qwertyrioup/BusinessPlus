@@ -101,6 +101,8 @@ export default function App() {
   return (
     <Provider store={store}>
       <PaperProvider>
+
+    
         <NavigationContainer>
           <PersistGate loading={null} persistor={persistor}>
             <StatusBar style="dark" />
@@ -109,6 +111,7 @@ export default function App() {
               screenOptions={{ headerShown: false }}
               drawerContent={(props) => <DrawerBody {...props} />}
             >
+          
               {viewedOnboarding ? (
                 <Drawer.Group>
                   <Drawer.Screen
